@@ -24,8 +24,8 @@ render(){
 <div>
 <h1>Total lottery pool is 1000</h1>
 <form>
-<input placeholder ="0.5"/>
-<button type="submit">Participnate</button>
+<input placeholder ="0.02"/>
+<button type="submit">Participate</button>
 <hr/><br/><hr/>
 <p> The manager of the lottery decentralized app is {this.state.manager} </p>
 <button> Pick Winner </button>
